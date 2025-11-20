@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\1256415\\Desktop\\TrabalhoATP Tetris\\Trabalho-ATP-Tetris\\Trabalho-ATP-Tetris.csproj": {}
+    "C:\\Users\\admin\\Desktop\\ATP\\Trabalho-ATP-Tetris\\Trabalho-ATP-Tetris.csproj": {}
   },
   "projects": {
-    "C:\\Users\\1256415\\Desktop\\TrabalhoATP Tetris\\Trabalho-ATP-Tetris\\Trabalho-ATP-Tetris.csproj": {
+    "C:\\Users\\admin\\Desktop\\ATP\\Trabalho-ATP-Tetris\\Trabalho-ATP-Tetris.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\1256415\\Desktop\\TrabalhoATP Tetris\\Trabalho-ATP-Tetris\\Trabalho-ATP-Tetris.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Desktop\\ATP\\Trabalho-ATP-Tetris\\Trabalho-ATP-Tetris.csproj",
         "projectName": "Trabalho-ATP-Tetris",
-        "projectPath": "C:\\Users\\1256415\\Desktop\\TrabalhoATP Tetris\\Trabalho-ATP-Tetris\\Trabalho-ATP-Tetris.csproj",
-        "packagesPath": "C:\\Users\\1256415\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\1256415\\Desktop\\TrabalhoATP Tetris\\Trabalho-ATP-Tetris\\obj\\",
+        "projectPath": "C:\\Users\\admin\\Desktop\\ATP\\Trabalho-ATP-Tetris\\Trabalho-ATP-Tetris.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\admin\\Desktop\\ATP\\Trabalho-ATP-Tetris\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\1256415\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,7 +44,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -59,12 +61,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.21, 8.0.21]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.21, 8.0.21]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.21, 8.0.21]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.21, 8.0.21]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

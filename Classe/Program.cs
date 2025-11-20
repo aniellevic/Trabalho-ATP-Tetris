@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+using System;
+using TrabalhoATP_Tetris.Classes;
 ﻿namespace TrabalhoATP_Tetris
 {
     public class Program
@@ -7,10 +8,8 @@
         {
             Jogo jogo = new Jogo();
             jogo.Iniciar();
+            
+            Console.ReadLine();
         }
     }
 }
-=======
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
->>>>>>> e3cb200 (Atualização-Tabuleiro)

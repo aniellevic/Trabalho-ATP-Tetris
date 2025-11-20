@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ojWi/jal67s=",
+  "dgSpecHash": "JgcI8JlcNec=",
   "success": true,
-  "projectFilePath": "C:\\Users\\1256415\\Desktop\\TrabalhoATP Tetris\\Trabalho-ATP-Tetris\\Trabalho-ATP-Tetris.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\ATP\\Trabalho-ATP-Tetris\\Trabalho-ATP-Tetris.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.21\\microsoft.netcore.app.ref.8.0.21.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.21\\microsoft.windowsdesktop.app.ref.8.0.21.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.21\\microsoft.aspnetcore.app.ref.8.0.21.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.21\\microsoft.netcore.app.host.win-x64.8.0.21.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -2,9 +2,11 @@ namespace TrabalhoATP_Tetris.Classes
 {
     public class Jogador
     {
-        public string nome;
-        public int pontuacaoFinal;
+        // Nome do jogador
+        public string nome { get; private set; }
 
+        // Pontuação final obtida durante a partida
+        public int pontuacaoFinal { get; private set; }
         public Jogador(string nome)
         {
             this.nome = nome;
