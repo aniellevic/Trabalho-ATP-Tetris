@@ -1,0 +1,8 @@
+C:\Users\admin\Desktop\ATP\Trabalho ATP\bin\Debug\Trabalho ATP.exe.config
+C:\Users\admin\Desktop\ATP\Trabalho ATP\bin\Debug\Trabalho ATP.exe
+C:\Users\admin\Desktop\ATP\Trabalho ATP\bin\Debug\Trabalho ATP.pdb
+C:\Users\admin\Desktop\ATP\Trabalho ATP\obj\Debug\Trabalho ATP.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\ATP\Trabalho ATP\obj\Debug\Trabalho ATP.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\ATP\Trabalho ATP\obj\Debug\Trabalho ATP.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ATP\Trabalho ATP\obj\Debug\Trabalho ATP.exe
+C:\Users\admin\Desktop\ATP\Trabalho ATP\obj\Debug\Trabalho ATP.pdb
